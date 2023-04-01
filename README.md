@@ -104,3 +104,7 @@
 
 ## <span id="head14"> 开源推荐</span>
 [ChatGPT-Academic](https://github.com/binary-husky/chatgpt_academic)
+
+如果想要随时查看以上内容，欢迎扫描下方二维码关注我的微信公众号：洋芋智能
+
+![公众号二维码](/img/公众号二维码.jpg)
