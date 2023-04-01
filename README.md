@@ -1,5 +1,3 @@
-
-
 # <span id="head1"> CS-Learning</span>
 计算机学习与就业干货知识，包括Python、Java、人工智能以及笔试面试中的算法题以及计算机专业基础知识（数据结构、计算机网络、数据库、操作系统、计算机组成原理、软件工程、编译原理）
 
@@ -104,6 +102,8 @@
 
 ## <span id="head14"> 开源推荐</span>
 [ChatGPT-Academic](https://github.com/binary-husky/chatgpt_academic)
+
+----
 
 如果想要随时查看以上内容，欢迎扫描下方二维码关注我的微信公众号：洋芋智能
 
